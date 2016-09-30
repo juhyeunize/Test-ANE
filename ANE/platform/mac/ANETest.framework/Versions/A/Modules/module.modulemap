@@ -1,0 +1,6 @@
+framework module ANETest {
+  umbrella header "ANETest.h"
+
+  export *
+  module * { export * }
+}

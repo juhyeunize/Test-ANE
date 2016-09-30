@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Test" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ANE/Test.ane!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

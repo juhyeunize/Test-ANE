@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/23.0">
+    <id>com.juhyeunize.ANETest</id>
+    <versionNumber>0.0.1</versionNumber>
+    <platforms>
+        <platform name="MacOS-x86-64">
+            <applicationDeployment>
+                <nativeLibrary>ANETest.framework</nativeLibrary>
+                <initializer>MyExtensionInitializer</initializer>
+                <finalizer>MyExtensionFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+    </platforms>
+</extension>

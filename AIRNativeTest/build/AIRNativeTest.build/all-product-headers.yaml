@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/SKP-Juhyeunize/Desktop/ANE Test/AIRNativeTest/build/Release/ANETest.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ANETest-Swift.h",
+          'external-contents': "/Users/SKP-Juhyeunize/Desktop/ANE Test/AIRNativeTest/build/Release/ANETest.framework/Versions/A/Headers/ANETest-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ANETest.h",
+          'external-contents': "/Users/SKP-Juhyeunize/Desktop/ANE Test/AIRNativeTest/ANETest/ANETest.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/SKP-Juhyeunize/Desktop/ANE Test/AIRNativeTest/build/Release/ANETest.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/SKP-Juhyeunize/Desktop/ANE Test/AIRNativeTest/build/AIRNativeTest.build/Release/ANETest.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
